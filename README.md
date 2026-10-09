@@ -1,97 +1,53 @@
+<table>
+  <tr>
+    <td align="left" width="30%">
+      <strong>Hi, I’m Anuj Kumar 👋</strong>
+    </td>
+    <td align="center" width="70%">
+      <h1>Data Analyst | Learning Data Analytics</h1>
+    </td>
+  </tr>
+</table>
 
-<h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
-<h3 align="center">Aspiring Data Analyst | Learning Data Analytics</h3>
+       
+<img src="https://komarev.com/ghpvc/?username=AnujkumarData&style=flat-square&color=blue" alt=""/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D6EFD&height=4" alt="Blue divider" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anuj-kumar-348000318/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
+</div>
+<div align="center">
+<div id="badges">
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-0D6EFD?style=for-the-badge" alt="Focus: Data Analytics" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎯 Aspiring Data Analyst interested in turning data into meaningful insights.
-- 🎓 Completed a **B.Com** from Uttarakhand Open University in 2025.
-- 📚 Currently pursuing **Data Analytics training at Brillica**.
-- 📊 Building dashboards and exploring business insights using Power BI and Excel.
-- 🐍 Currently learning Python for data analysis.
-- 🗄️ Currently learning SQL and Generative AI tools.
-- 🌍 Based in Dehradun, Uttarakhand, India.
-
----
-
-## 🛠️ Skills & Tools
-
-### Data Analytics
-<p>
-  <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel Intermediate" />
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard%20Development-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-</p>
-
-### Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/Python-Basic%20Level-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Basic" />
-  <img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL Learning" />
-  <img src="https://img.shields.io/badge/Generative%20AI-Learning-412991?style=flat-square" alt="Generative AI Learning" />
-  <img src="https://img.shields.io/badge/Pandas%20%26%20NumPy-Basics-150458?style=flat-square" alt="Pandas and NumPy basics" />
-  <img src="https://img.shields.io/badge/GitHub-Basics-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Basics" />
-</p>
-
----
-
-## 📊 Featured Project
-
-### 📱 Mobile Brand Sales Dashboard — Power BI
-
-A Power BI dashboard project focused on exploring mobile phone sales data and comparing brand and model performance.
-
-**Project objectives:**
-- Analyze sales across mobile brands and models.
-- Compare sales performance and average sales.
-- Explore product attributes such as RAM, ROM, battery capacity, and screen size.
-- Examine discounts and customer ratings to support business analysis.
-
-**Tools:** Power BI, DAX, Excel
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=0D6EFD&icon_color=0D6EFD"
-    alt="Anuj Kumar's GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true&title_color=0D6EFD"
-    alt="Most used programming languages"
-  />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/anuj-kumar-348000318/">
-    <img src="https://img.shields.io/badge/LinkedIn-Anuj%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Anuj Kumar on LinkedIn" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=black" alt="Kaggle Badge"/>
   </a>
-</p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
+  </a></div></div>
 
-📧 **Email:** anujtiger45361@gmail.com
 
----
 
-<p align="center">
-  <i>Learning every day, building projects, and growing as a data analyst.</i>
-</p>
+<h1>About Me ❤️</h1>
+
+- 💡 Passionate about data analytics, transforming raw data into actionable insights.
+- 🎓 Completed a Bachelor of Commerce (B.Com) from Uttarakhand Open University in 2025.
+- 🏢 Currently undergoing professional training in Data Analytics at Brillica.
+- 🚀 Actively learning and sharpening skills in Power BI, Excel, SQL, Python, and Generative AI.
+- ⚡ In my free time, I love working on analytical problem-solving and exploring new tech trends.
+- 😆 Fun fact: I enjoy turning complex data chaos into clean, beautiful dashboards!
+- 📫 How to reach me: Connect with me on LinkedIn.
+
+<br>
+<br>
+
+# 💻 Tech Stack:
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<br>
+<br>
+
+# :fire: My Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnujkumarData&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
