@@ -4,7 +4,7 @@
       <strong>Hi, I’m Anuj Kumar 👋</strong>
     </td>
     <td align="center" width="70%">
-      <h1>Data Analyst | Learning Data Analytics</h1>
+      <h1>Aspiring Data Analyst</h1>
     </td>
   </tr>
 </table>
@@ -17,26 +17,21 @@
 </div>
 <div align="center">
 <div id="badges">
-  <a href="#">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=black" alt="Kaggle Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
-  </a></div></div>
+</div></div>
 
 
 
 <h1>About Me ❤️</h1>
 
-- 💡 Passionate about data analytics, transforming raw data into actionable insights.
-- 🎓 Completed a Bachelor of Commerce (B.Com) from Uttarakhand Open University in 2025.
-- 🏢 Currently undergoing professional training in Data Analytics at Brillica.
-- 🚀 Actively learning and sharpening skills in Power BI, Excel, SQL, Python, and Generative AI.
-- ⚡ In my free time, I love working on analytical problem-solving and exploring new tech trends.
-- 😆 Fun fact: I enjoy turning complex data chaos into clean, beautiful dashboards!
+- 💡 Passionate about data analytics and deriving actionable insights from raw data.
+- 🎓 Completed a Bachelor of Commerce from Uttarakhand Open University in 2025.
+- 🏢 Currently undergoing Data Analytics training at Brillica.
+- 🚀 Developing skills in Power BI, Excel, SQL, Python, and Generative AI.
+- ⚡ In my free time, I enjoy working on analytical challenges and exploring modern tech developments.
+- 😆 Fun fact: Turning complex datasets into clear, intuitive dashboards is my favorite challenge!
 - 📫 How to reach me: Connect with me on LinkedIn.
 
 <br>
